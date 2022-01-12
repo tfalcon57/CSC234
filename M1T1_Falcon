@@ -1,0 +1,15 @@
+// CSC 234
+// M1T1
+// Tristan Falcon
+// 1-10-2022
+
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+  cout << "Tristan Falcon " << endl;
+  cout << "I am currently working with C++ and Python this semester." << endl;
+  cout << "In what little spare time I have, I enjoy gaming, making music, working out, and traveling.\n";
+  cout << "I also work a full-time job on Fort Bragg." << endl;
+} 
